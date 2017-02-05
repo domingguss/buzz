@@ -61,7 +61,7 @@ int main(int argc, const char * argv[]) {
         NSArray *arguments = [[NSProcessInfo processInfo] arguments];
         
         if (arguments.count != 2) {
-            printf("need status (int) argument (-1..4)");
+            printf("usage: 'buzz all' or 'buzz 0' or 'buzz 1' etc...");
         } else {
             NSString *input = arguments[1];
             sendStatus(input);
