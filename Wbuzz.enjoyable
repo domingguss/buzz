@@ -1,0 +1,85 @@
+{
+  "name" : "Wbuzz",
+  "entries" : {
+    "1356:4096:1~Button 10" : {
+      "type" : "key press",
+      "key" : 38
+    },
+    "1356:4096:1~Button 11" : {
+      "type" : "key press",
+      "key" : 40
+    },
+    "1356:4096:1~Button 12" : {
+      "type" : "key press",
+      "key" : 37
+    },
+    "1356:4096:1~Button 13" : {
+      "type" : "key press",
+      "key" : 46
+    },
+    "1356:4096:1~Button 14" : {
+      "type" : "key press",
+      "key" : 45
+    },
+    "1356:4096:1~Button 15" : {
+      "type" : "key press",
+      "key" : 31
+    },
+    "1356:4096:1~Button 16" : {
+      "type" : "key press",
+      "key" : 35
+    },
+    "1356:4096:1~Button 17" : {
+      "type" : "key press",
+      "key" : 12
+    },
+    "1356:4096:1~Button 1" : {
+      "type" : "key press",
+      "key" : 0
+    },
+    "1356:4096:1~Button 2" : {
+      "type" : "key press",
+      "key" : 11
+    },
+    "1356:4096:1~Button 18" : {
+      "type" : "key press",
+      "key" : 15
+    },
+    "1356:4096:1~Button 3" : {
+      "type" : "key press",
+      "key" : 8
+    },
+    "1356:4096:1~Button 19" : {
+      "type" : "key press",
+      "key" : 1
+    },
+    "1356:4096:1~Button 4" : {
+      "type" : "key press",
+      "key" : 2
+    },
+    "1356:4096:1~Button 5" : {
+      "type" : "key press",
+      "key" : 14
+    },
+    "1356:4096:1~Button 6" : {
+      "type" : "key press",
+      "key" : 3
+    },
+    "1356:4096:1~Button 20" : {
+      "type" : "key press",
+      "key" : 17
+    },
+    "1356:4096:1~Button 7" : {
+      "type" : "key press",
+      "key" : 5
+    },
+    "1356:4096:1~Button 8" : {
+      "type" : "key press",
+      "key" : 4
+    },
+    "1356:4096:1~Button 9" : {
+      "type" : "key press",
+      "key" : 34
+    }
+  }
+}
