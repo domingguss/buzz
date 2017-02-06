@@ -1,6 +1,7 @@
 ## Connect PS3 Buzz controllers for OSX
 
 [![Demo](http://img.youtube.com/vi/5eImuf0xK2M/0.jpg)](http://www.youtube.com/watch?v=5eImuf0xK2M "See demo on YouTube")
+Watch on YouTube: [http://www.youtube.com/watch?v=5eImuf0xK2M](http://www.youtube.com/watch?v=5eImuf0xK2M)
 
 This repository contains files to connect the wireless PS3 dongle. It uses the hidapi library to connect to the Wbuzz dongle and writes the bytes in order to flash the LEDs. 
 
